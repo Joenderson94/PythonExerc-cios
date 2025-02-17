@@ -1,0 +1,9 @@
+vigarista;58
+penelope;45
+jason;62
+gragas;60
+bauldus;15
+valorant;8
+league;12
+Zé Carlos;63
+cliente;25
